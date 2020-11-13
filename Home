@@ -51,8 +51,7 @@
 <body style=background-color:#92caf7>
 	<h1 style = "font-family:Comic sans MS;font-size:25"><center> Welcome to FMS Improvement </center></h1>
     <h2 style = "font-family:Comic sans MS;font-size:20; color:#4f4f4f"><center> What would you like to do today:</center></h2>
-    <a href="nexpage.html" class="button button1" style="font-family:Comic sans MS">Shape Sorting</a>
-	<a href="nexpage.html" class="button button2" style="font-family:Comic sans MS">Cutting Stickers</a>
-    <a href="nexpage.html" class="button button3" style="font-family:Comic sans MS">Tracing the Alphabet</a>
+    <a href="https://EffectiveSereneCones.jacquelinesalam.repl.co" class="button button1" style="font-family:Comic sans MS">Shape Sorting</a>
+	<a href="https://PriceyOutlandishLinuxkernel.jacquelinesalam.repl.co" class="button button2" style="font-family:Comic sans MS">Cutting Stickers</a>
+    <a href="https://GreenyellowSwiftImplementation.jacquelinesalam.repl.co" class="button button3" style="font-family:Comic sans MS">Tracing the Alphabet</a>
 </body>
-</html>
